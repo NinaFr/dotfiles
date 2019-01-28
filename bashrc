@@ -98,3 +98,6 @@ alias kgp='kubectl get pods -o wide'
 alias kgn='kubectl get nodes -o wide'
 alias kgl='kubectl logs'
 
+# Python aliases
+alias python='python3.6'
+alias python3='python3.6'
